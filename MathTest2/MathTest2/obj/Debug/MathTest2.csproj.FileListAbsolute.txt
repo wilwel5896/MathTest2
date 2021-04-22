@@ -1,0 +1,7 @@
+C:\Root\Learning\MathTest2\MathTest2\MathTest2\bin\Debug\MathTest2.exe.config
+C:\Root\Learning\MathTest2\MathTest2\MathTest2\bin\Debug\MathTest2.exe
+C:\Root\Learning\MathTest2\MathTest2\MathTest2\bin\Debug\MathTest2.pdb
+C:\Root\Learning\MathTest2\MathTest2\MathTest2\obj\Debug\MathTest2.csprojAssemblyReference.cache
+C:\Root\Learning\MathTest2\MathTest2\MathTest2\obj\Debug\MathTest2.csproj.CoreCompileInputs.cache
+C:\Root\Learning\MathTest2\MathTest2\MathTest2\obj\Debug\MathTest2.exe
+C:\Root\Learning\MathTest2\MathTest2\MathTest2\obj\Debug\MathTest2.pdb
